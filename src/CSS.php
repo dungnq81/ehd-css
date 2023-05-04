@@ -89,7 +89,7 @@ final class CSS
      * @param string $value      The value to be placed with the property.
      * @param string $og_default Check to see if the value matches the default.
      * @param string $unit       The unit for the value (px).
-     * @return $this
+     * @return $this|false
      * @since  1.0
      *
      */
