@@ -1,0 +1,19 @@
+{
+  "name": "ehd-css",
+  "description": "Creates minified css via PHP",
+  "type": "module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "ehd",
+      "email": "official.webhd@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "EHD_CSS\\": "src/"
+    }
+  },
+  "require": {}
+}
